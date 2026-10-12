@@ -1,0 +1,32 @@
+   [kalshi series KXNHLGAME] 50 events
+   [kalshi series KXNBAGAME] 34 events
+   [kalshi series KXNFLGAME] 15 events
+   [kalshi series KXMLBGAME] 7 events
+   [kalshi series KXNCAAFGAME] 200 events
+   [kalshi series KXNCAAMBGAME] 0 events
+   [kalshi series KXATPMATCH] 10 events
+   [kalshi series KXEPLGAME] 21 events
+   Polymarket generic page 21 failed: Client error '422 Unprocessable Entity' for url 'https://gamma-api.polymarket.com/events?limit=100&offset=2100&active=tr
+   [poly pass top-volume] +2093 new events
+   [poly pass tag:sports] +270 new events
+   [poly pass tag:politics] +347 new events
+   [poly pass tag:economy] +116 new events
+   [poly pass tag:crypto] +873 new events
+   [poly pass tag:finance] +261 new events
+   [poly pass tag:geopolitics] +276 new events
+   [poly pass tag:business] +24 new events
+   [poly pass tag:tech] +177 new events
+   [poly pass tag:culture] +0 new events
+   [poly stats] {'events': 4437, 'markets': 63789, 'multi_choice_skipped': 482, 'games': 611, 'not_yes_no': 16053, 'no_book': 1, 'options': 26954, 'match_outcomes': 211}
+   [time] Polymarket download: 34.1s
+   [kalshi] 12009 unique events collected (60 pages scanned)
+   [kalshi stats] {'events': 12009, 'markets': 110189, 'multi_choice_events': 236, 'inactive': 2784, 'no_book': 0, 'options': 98056}
+   [time] Kalshi download: 55.8s
+   [time] path 1 games (1433 poly games): 0.4s
+   [time] path 2 fuzzy single questions (28780 poly x 107405 kalshi markets): 82.9s
+   [time] path 3 option events: 103.6s
+   [time] semantic guard (3112 candidates): 1.0s
+   [time] 1:1 assignment: 0.0s
+   candidate rejections: {'different sub-market (set / map / game number)': 34646, 'different matchup (an opponent differs)': 35791, 'numbers differ': 9485, 'different team (YES refers to another side)': 1130, 'close dates differ': 8, 'different market type (advance / regulation / penalties)': 21, 'score too low': 112624, 'different concept (announce/ticket/lead-left/...)': 88, 'different names': 8908, 'direction differs': 12, 'option: different threshold': 553205, 'event: different kind of question': 1382, 'event: different concept': 2656, 'option: close dates differ': 4396, 'option: different option': 944580, 'event: options do not line up': 157, 'option: ambiguous rung': 254, 'option: numbers differ': 909, 'event: numbers differ': 971, 'event: year differs': 220, 'event: different sub-market': 59, 'option: different sub-market': 24, 'option: direction differs': 62, 'option: month differs': 174, 'option events matched': 213, 'guard: game market type differs': 205, 'guard: event type differs': 112, 'guard: numbers differ': 437, 'guard: game prop vs full-match winner': 32, 'guard: time window differs': 62, 'guard: fantasy-points market vs real-stats market': 144, 'guard: different subject (shared vocabulary 33%)': 19, 'guard: different subject (shared vocabulary 17%)': 21, 'guard: different subject (shared vocabulary 29%)': 7, 'guard: different subject (shared vocabulary 20%)': 5, 'guard: scope differs': 17, 'guard: deadline differs 2026-12-30 vs 2026-12-31': 1, 'guard: deadline differs 2026-10-30 vs 2026-10-31': 1, 'guard: deadline differs 2027-03-30 vs 2027-03-31': 1, 'guard: deadline differs 2027-06-29 vs 2027-06-30': 1, 'guard: deadline differs 2027-12-30 vs 2027-12-31': 1, 'guard: weather station differs: new york city vs phoenix': 4, 'guard: weather station differs: denver vs phoenix': 4, 'guard: weather station differs: denver vs newark': 4, 'guard: calendar date differs': 20, 'guard: weather station differs: los angeles vs las vegas': 4, 'guard: rank / top-N differs': 3, 'guard: weather station differs: seattle vs san francisco': 3, 'guard: different subject (shared vocabulary 0%)': 4, 'guard: different subject (shared vocabulary 25%)': 2}
+   matched pairs: 1972  (game pairs: 303, option pairs: 1650)
+   [time] matching total: 187.9s

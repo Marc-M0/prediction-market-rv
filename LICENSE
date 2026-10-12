@@ -1,16 +1,53 @@
-MIT License
+Source-Available License (Non-Commercial)
 
-Copyright (c) 2026 MarcM01
+Copyright (c) 2026 MarcM01. All rights reserved except as granted below.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. PERMITTED USE
+   Permission is granted, free of charge, to any person obtaining a copy of this software
+   and associated documentation files (the "Software") to use, copy, modify and study the
+   Software for educational, research and other non-commercial purposes, provided
+   that this notice is included in all copies or substantial portions of the Software.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. COMMERCIAL USE REQUIRES PRIOR WRITTEN PERMISSION
+   Without the prior written permission of the copyright holder, you may NOT:
+   (a) sell, resell, rent, license or sublicense the Software or any modified version of it;
+   (b) offer the Software, or output produced by it, as part of a paid product, subscription,
+       signal service, managed service or hosted service;
+   (c) include the Software in a product or service that is sold or generates revenue;
+   (d) use the Software to trade or manage money on behalf of third parties, or as part of a
+       business, fund or other commercial activity.
+   Trading with your own personal funds is not Commercial Use under this license.
+
+3. PROFIT SHARING
+   Any revenue or profit generated from Commercial Use or personal use of the Software must be discussed with
+   the copyright holder BEFORE it starts, and may require a separate written agreement that
+   includes a share of that revenue or profit for the copyright holder. Contact:
+   [ADD YOUR CONTACT: GitHub profile / email].
+
+4. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE, ACCURACY AND NONINFRINGEMENT.
+
+5. NO LIABILITY; NO FINANCIAL ADVICE
+   The Software is a research tool. It does not provide financial, investment, legal or tax
+   advice. Opportunities it reports may be wrong, stale or not executable (for example because
+   two markets resolve differently, prices have moved, or liquidity is insufficient). You are
+   solely responsible for any decision, trade or loss, and for complying with the terms of
+   service and the laws that apply to you and to any third-party platform. TO THE MAXIMUM
+   EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR
+   ANY CLAIM, DAMAGES, TRADING OR INVESTMENT LOSSES, LOST PROFITS OR OTHER LIABILITY, WHETHER
+   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+   SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. TERMINATION
+   Any use that breaches this license automatically terminates the rights granted to you.
+
+7. THIRD-PARTY COMPONENTS
+   Third-party libraries used by the Software remain under their own licenses.
+
+
+
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
