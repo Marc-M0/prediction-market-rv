@@ -78,8 +78,4 @@ platform rules about who may trade where. Check that using these platforms is le
 See [`LICENSE`](LICENSE). Commercial and profit use requires prior written permission.
 To run uv run: prediction-market-rv
 
-<<<<<<< HEAD
 ## Any input to make the code better or to signal any kind of issue or anything that can be added to make it better is always welcomed
-=======
-## Any input to make the code better or to signal any kind of issue or anything that can be added to make it better is always welcomed
->>>>>>> ab170fbf9459ef176372e2829d6cf2a21e41ce5a
